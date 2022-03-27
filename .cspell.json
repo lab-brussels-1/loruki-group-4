@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": [],
+  "words": ["HANEEFA", "CRISTOBAL", "KIISHI", "socio"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
