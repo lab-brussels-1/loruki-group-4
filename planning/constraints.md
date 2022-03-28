@@ -49,6 +49,7 @@ creative project!
 :heavy*check_mark: *As a team planning and execution should be done according to
 the meetups.\*
 
+
 <!--
   constraints that your team decided on to help scope the project. they may include:
   - coding style & conventions

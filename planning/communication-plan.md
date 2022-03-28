@@ -27,6 +27,7 @@
 | Friday, April 8     | Via Zoom              | Review of the whole project               |
 | Saturday, April 9   | -                     | Off                                       |
 
+
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
@@ -60,6 +61,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 - name: Cristobal Lopez _8h_; lunch time in between plus any extenuating
   circustances.
+
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
@@ -74,7 +76,4 @@ based on how long you've been stuck on the same problem:
 1. _0 -> 30 min_: Try on your own
 2. _30 -> 60 min_: Ask your group for help
 3. _60+ min_: Tag your coaches in Slack or GitHub
-
-```
-
 ```
