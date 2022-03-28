@@ -21,7 +21,7 @@
 | Saturday, April 2   | Via Zoom              | HTML & CSS questions                      |
 | Sunday, April 3     | -                     | Free                                      |
 | Monday, April 4     | Via Zoom              | Check point of the website                |
-| Tuesday, April 5    | Via Zoom              | Check point of the webiste                |
+| Tuesday, April 5    | Via Zoom              | Check point of the website                |
 | Wednesday, April 6  | Via Zoom              | Check point of the website                |
 | Thursday, April 7   | Via Zoom              | Styling the last details of the website   |
 | Friday, April 8     | Via Zoom              | Review of the whole project               |
@@ -35,34 +35,26 @@ how often will we get in touch on each channel, and what we will discuss there:
 - **Pull Requests**: everyday if necessary
 - **GitHub Discussions** everyday if necessary
 - **Slack/Discord**: everyday
-- **Video Calls**: everday day at 7PM
+- **Video Calls**: everyday day at 7PM
 
 ---
 
 ### Availability for calling/messaging
 
-| Day             |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday  |  Sunday   |
-| --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :-------: | :-------: |
-| Cristobal Lopez | 9am - 5pm  | 9am - 5pm  | 9am - 5pm  | 9am - 5pm  | 9am - 5pm  | 9am - 5pm |    off    |
-| Day             |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday  |  Sunday   |
-| ------          |  :-----:   |  :-----:   | :-------:  |  :------:  |  :-----:   | :------:  |  :-----:  |
-| Kiishi          | 6pm - 10pm | 8pm - 11pm | 7pm - 10pm | 8pm - 12am | 6pm - 10pm | 1pm - 9pm | 7pm - 9pm |
-| Day             |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday  |  Sunday   |
-| ------          |  :-----:   |  :-----:   | :-------:  |  :------:  |  :-----:   | :------:  |  :-----:  |
-| _name_          |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20  |  13 - 20  |
-| Day             |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday  |  Sunday   |
-| ------          |  :-----:   |  :-----:   | :-------:  |  :------:  |  :-----:   | :------:  |  :-----:  |
-| _name_          |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20  |  13 - 20  |
+| Day             |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday  |   Sunday   |
+| --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :-------: | :--------: |
+| Cristobal Lopez | 9am - 5pm  | 9am - 5pm  | 9am - 5pm  | 9am - 5pm  | 9am - 5pm  | 9am - 5pm |    off     |
+| Kiishi          | 6pm - 10pm | 8pm - 11pm | 7pm - 10pm | 8pm - 12am | 6pm - 10pm | 1pm - 9pm | 7pm - 9pm  |
+| Haneefa         | 9am - 8pm  | 9am - 8pm  | 9am - 8pm  | 9am - 8pm  | 9am - 8pm  |    off    | 12pm - 4pm |
+| _name_          |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20  |  13 - 20   |
 
 ### How many hours everyone has per day
 
-- name: Cristobal Lopez _8h_; lunch time in between plus any extenuating
-  circustances.
-
-- name: Kiishi _3h - 4h_; depends on the day
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Cristobal Lopez : _8h_; lunch time in between plus any extenuating
+  circumstances.
+- Kiishi : _3h - 4h_; depends on the day
+- Haneefa : _5h_; can extend for one more hour if necessary
+- name : _4h_;
 
 ## Asking for Help
 

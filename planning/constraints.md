@@ -40,14 +40,14 @@ creative project!
 
 ### Availability
 
-:heavy*check_mark:*4 hours per day/person.\*
+:heavy*check_mark: \_4 hours per day/person.*
 
-:heavy*check_mark:*Using discord and zoom for communication.\*
+:heavy*check_mark: \_Using discord and zoom for communication.*
 
-:heavy*check_mark:*At least one hour daily meet.\*
+:heavy*check_mark: \_At least one hour daily meet.*
 
-:heavy*check_mark:*As a team planning and execution should be done according to
-the meetups.\*
+:heavy*check_mark: \_As a team planning and execution should be done according
+to the meetups.*
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
