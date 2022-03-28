@@ -41,25 +41,25 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day             |  Monday   |  Tuesday  | Wednesday | Thursday  |  Friday   | Saturday  | Sunday  |
-| --------------- | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-----: |
-| Cristobal Lopez | 9am - 5pm | 9am - 5pm | 9am - 5pm | 9am - 5pm | 9am - 5pm | 9am - 5pm |   off   |
-| Day             |  Monday   |  Tuesday  | Wednesday | Thursday  |  Friday   | Saturday  | Sunday  |
-| ------          |  :-----:  |  :-----:  | :-------: | :------:  |  :-----:  | :------:  | :-----: |
-| _name_          |  13 - 20  |  13 - 20  |  13 - 20  |  13 - 20  |  13 - 20  |  13 - 20  | 13 - 20 |
-| Day             |  Monday   |  Tuesday  | Wednesday | Thursday  |  Friday   | Saturday  | Sunday  |
-| ------          |  :-----:  |  :-----:  | :-------: | :------:  |  :-----:  | :------:  | :-----: |
-| _name_          |  13 - 20  |  13 - 20  |  13 - 20  |  13 - 20  |  13 - 20  |  13 - 20  | 13 - 20 |
-| Day             |  Monday   |  Tuesday  | Wednesday | Thursday  |  Friday   | Saturday  | Sunday  |
-| ------          |  :-----:  |  :-----:  | :-------: | :------:  |  :-----:  | :------:  | :-----: |
-| _name_          |  13 - 20  |  13 - 20  |  13 - 20  |  13 - 20  |  13 - 20  |  13 - 20  | 13 - 20 |
+| Day             |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday  |  Sunday   |
+| --------------- | :--------: | :--------: | :--------: | :--------: | :--------: | :-------: | :-------: |
+| Cristobal Lopez | 9am - 5pm  | 9am - 5pm  | 9am - 5pm  | 9am - 5pm  | 9am - 5pm  | 9am - 5pm |    off    |
+| Day             |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday  |  Sunday   |
+| ------          |  :-----:   |  :-----:   | :-------:  |  :------:  |  :-----:   | :------:  |  :-----:  |
+| Kiishi          | 6pm - 10pm | 8pm - 11pm | 7pm - 10pm | 8pm - 12am | 6pm - 10pm | 1pm - 9pm | 7pm - 9pm |
+| Day             |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday  |  Sunday   |
+| ------          |  :-----:   |  :-----:   | :-------:  |  :------:  |  :-----:   | :------:  |  :-----:  |
+| _name_          |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20  |  13 - 20  |
+| Day             |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   | Saturday  |  Sunday   |
+| ------          |  :-----:   |  :-----:   | :-------:  |  :------:  |  :-----:   | :------:  |  :-----:  |
+| _name_          |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20   |  13 - 20  |  13 - 20  |
 
 ### How many hours everyone has per day
 
 - name: Cristobal Lopez _8h_; lunch time in between plus any extenuating
   circustances.
 
-- name: _6h_;
+- name: Kiishi _3h - 4h_; depends on the day
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
