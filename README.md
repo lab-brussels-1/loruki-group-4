@@ -29,7 +29,7 @@ responsive websites as well as CSS Grid and Flexbox.
 
 - HTML 5
 - CSS 3
-- VS
+- VS Code
 
 ## ✅ Code Examples
 
@@ -67,5 +67,5 @@ Project is: _in progress_
 
 ## ✅ Coaches
 
-- [@Samir M.](https://github.com/samirm00)
-- [@Tamer A.](https://github.com/talmurshidi)
+- [Samir M.](https://github.com/samirm00)
+- [Tamer A.](https://github.com/talmurshidi)
