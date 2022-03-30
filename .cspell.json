@@ -1,6 +1,18 @@
 {
   "language": "en",
-  "words": ["HANEEFA", "CRISTOBAL", "KIISHI", "socio"],
+  "words": [
+    "Loruki",
+    "HANEEFA",
+    "CRISTOBAL",
+    "KIISHI",
+    "socio",
+    "Flexbox",
+    "Loruiki",
+    "Shaik",
+    "yeasung",
+    "kiishiakande",
+    "Samir"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
