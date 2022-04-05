@@ -8,14 +8,13 @@ This Backlog is a collection of User Stories that our team has agreed on.
 
 - **Home page**
 
- - As a user I can read the title of the page.
+- As a user I can read the title of the page.
 - [x] _There is a prominent title at the top of the web page_
 
 - As a user I can see the logo of the website clearly.
 - [x] _There is a clear logo visible in the header_
 - As a user I can read the info of this project.
-- [x] _There is a section directly in the navbar describing the project's
-        pages_
+- [x] _There is a section directly in the navbar describing the project's pages_
 - As a user I can learn even more.
 - [x] _There is a form to download the demo_
 - As a student I can learn easier deployment.
@@ -31,7 +30,8 @@ This Backlog is a collection of User Stories that our team has agreed on.
 - **Home Page**
 
 - As a user I can navigate the web page from a navbar.
-- [x] _there is a navbar at the top of the page with links to the different pages_
+- [x] _there is a navbar at the top of the page with links to the different
+      pages_
 - As a user i can see the contents having support languages.
 - [x] _there is a section in the body describing the provided languages_
 
