@@ -13,7 +13,8 @@
     "kiishiakande",
     "Samir",
     "Wireframe",
-    "wireframe"
+    "wireframe",
+    "referrerpolicy"
   ],
   "ignorePaths": [
     "node_modules/**",
