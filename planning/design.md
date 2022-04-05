@@ -8,3 +8,4 @@ all the features and will play with some modifications.
 ## Wireframe(s)
 
 ![wireframe](../pictures/Design.png)
+![wireframe](../pictures/features-design.png)
