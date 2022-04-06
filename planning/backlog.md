@@ -6,7 +6,7 @@ This Backlog is a collection of User Stories that our team has agreed on.
 
 > these are necessary for basic usability
 
-- **Home page**
+ **Home page**
 
 - As a user I can read the title of the page.
 - [x] _There is a prominent title at the top of the web page_
@@ -27,7 +27,7 @@ This Backlog is a collection of User Stories that our team has agreed on.
 
 > will complete the user experience, but are not necessary
 
-- **Home Page**
+ **Home Page**
 
 - As a user I can navigate the web page from a navbar.
 - [x] _there is a navbar at the top of the page with links to the different
@@ -35,7 +35,7 @@ This Backlog is a collection of User Stories that our team has agreed on.
 - As a user i can see the contents having support languages.
 - [x] _there is a section in the body describing the provided languages_
 
-- **Features Page**
+ **Features Page**
 
 - As a user i want to know more about all the features available on the website.
 - [ ] _There is a features page linked with all the information_
@@ -44,12 +44,12 @@ This Backlog is a collection of User Stories that our team has agreed on.
 
 > would be really cool ... if there is time
 
-- **Home Page**
+ **Home Page**
 
 - As a user i can see the contents having statistics.
 - [x] _There is a section in the body describing the statistics_
 
-- **Docs Page**
+ **Docs Page**
 
 - As a user I want to know that the platform meets all the requirements.
 - [ ] _There is a information necessary about the essentials and deployment_
