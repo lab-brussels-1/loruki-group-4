@@ -499,3 +499,22 @@ img {
     background-color: rgba(0, 0, 0, 0.1);
   }
 }
+
+/* Features header */
+.lead {
+  font-size: 20px;
+  margin-right: auto;
+}
+
+.res {
+  height: 200px;
+  width: 200px;
+  margin-left: auto;
+}
+/* Features sub-header */
+
+.rez {
+  height: 300px;
+  width: 300px;
+  margin-left: auto;
+}
