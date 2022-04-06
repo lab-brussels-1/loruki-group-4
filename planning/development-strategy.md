@@ -2,84 +2,87 @@
 
 > Only `must have` user stories need to be in the development strategy
 
-A simple little website about `a hosting website`.
+A simple little website about `a hosting website` named **LORUKI**
 
 ---
 
 ## Setup
 
-- [] Boilerplate HTML file
-- [] Page title in the HTML file
-- [] CSS file is linked to HTML
+- [x] Boilerplate HTML file
+- [x] Page title in the HTML file
+- [x] CSS file is linked to HTML
 
 ---
 
 ### Title: HTML
 
-- Header with the web site's title
+- [x] Header with the web site's title
 
 ### Title: CSS
 
-- The title is styled to the top left
+- [x] The title is styled to the top right
 
 ---
 
 ### Navigation Bar: HTML
 
-- Three buttons that link you to more features
+- [x] Three buttons that link you to more features
 
 ### Navigation Bar: CSS
 
-- Style top left of the main page
+- [x] Style top left of the main page
 
 ---
 
 ### Logo: HTML
 
-- An image
+- [x] A clear logo in the Header
 
 ### Logo: CSS
 
-- Style top right of the main page
+- [x] Style top right of the main page
 
 ---
 
 ### Demo Form: HTML
 
-- A form
-- A blank text block for the user
-- Has a submit button
+- [x] A form
+- [x] A blank text block for the user
+- [x] Has a submit button
 
 ### Demo Form: CSS
 
-- Style top left of the main page
-- Has a submit button
+- [x] Style top left of the main page
+- [x] Has a submit button
 
 ---
 
 ### Content: HTML
 
-- A div with title and info of the project with a read more button
-- A welcome message
-- A div showing statistics
-- A div detailing the supported languages
+- [x] A div with title and info of the project with a read more button
+- [x] A welcome message
+- [x] A div showing statistics
+- [x] A div detailing the supported languages
 
 ### Content: CSS
 
-- Title and info of the project styled to the right of the main page
-- The welcome message styled center align
-- The statistics message styled center align
-- The supported languages at the bottom of main page above the footer The
-  supported languages styling is centered
+- [x] Title and info of the project styled to the right of the main page
+- [x] The welcome message styled center align
+- [x] The statistics message styled center align
+- [x] The supported languages at the bottom of main page above the footer
+- [x] The supported languages styling is centered
 
 ---
 
 ## Footer:HTML
 
-- There is info about the date which the website is created and reserved right
-- Includes social media links and info about how to contact us
+- [x] There is info about the date which the website is created and reserved
+      right
+- [x] Includes social media links and info about how to contact us
+- [x] Includes the list of links to other pages
 
 ### Footer: CSS
 
-- Styling the footer text to be centered.
-- Including social media icons
+- [x] Styling the footer text to be centered
+- [x] Including social media icons
+- [x] Linking the other pages
