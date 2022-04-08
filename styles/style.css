@@ -43,7 +43,6 @@ img {
 }
 
 /* nav bar style */
-
 .navbar {
   background-color: var(--primary-color);
   color: rgb(242, 242, 250);
@@ -100,7 +99,6 @@ img {
 }
 
 /* showcase */
-
 .showcase {
   height: 400px;
   background-color: var(--secondary-color);
@@ -184,7 +182,6 @@ img {
 }
 
 /* utilities */
-
 .container {
   max-width: 1100px;
   margin: 0 auto;
@@ -521,7 +518,7 @@ img {
   animation: slideInFromBottom 1s ease-in;
 }
 
-/* features_main subheader */
+/* features-main subheader */
 .features-main .card > i {
   margin-right: 20px;
 }
